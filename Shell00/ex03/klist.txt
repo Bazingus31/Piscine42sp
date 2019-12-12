@@ -1,0 +1,5 @@
+Credentials cache: API:1424513
+        Principal: gde-matt@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 18 17:02:50 2019  Nov 25 17:02:48 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
